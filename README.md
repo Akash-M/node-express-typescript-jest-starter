@@ -1,4 +1,4 @@
-# Minddoc Backend
+# Nodejs + Express + Typescript + Jest based backend project
 
 Backend skeleton for Node.js Express written in Typescript with Jest for testing
 
