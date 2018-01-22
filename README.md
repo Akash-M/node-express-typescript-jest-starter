@@ -30,8 +30,8 @@ node_modules/           // npm modules
 src/                    // source folder
 -- config/              // all application config files
 -- controllers/         // controllers containing app logic
----- home               // test controller -- to be removed later
----- mailer             // mailer controller to send email to support team
+---- home               // test controller
+---- mailer             // mailer controller 
 -- models               // all future db + application models
 -- app.ts               // instantiate application and register all routes
 -- server.ts            // express server config
